@@ -1,5 +1,6 @@
 .idea/
 bin/
+share/
 cs490_Homework3.iml
 pyvenv.cfg
 
