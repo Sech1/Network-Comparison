@@ -1,3 +1,5 @@
+This is the code we used to geneate the data and graphs for homework assignment 3.
+
 Create a report with the following information:
 1. A description of how you generated the random and BA networks.
 2. Determine and chart out the degree distribution of the ER network. Compare the chart to the
